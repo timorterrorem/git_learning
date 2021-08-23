@@ -1,2 +1,7 @@
 hehe, do u wanna sync this ?
 yes I do. And I wanna undo this.
+<<<<<<< HEAD
+=======
+
+asdasd
+>>>>>>> 962b5c37676f2058e8a40ea70bb4d89ab1c4a4b9
